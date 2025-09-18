@@ -1,0 +1,1 @@
+A restaurant industry analysis based on Zomato data, highlighting global coverage, ratings, cuisines, online delivery, table booking trends, and cost distribution across cities, countries, and continents.
